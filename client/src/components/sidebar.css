@@ -1,0 +1,17 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+
+}
+
+.button {
+    padding: 14px;
+    width: 220px;
+    margin-bottom: 6px;
+    font-weight: 600;
+    color: violet;
+    border-radius: 6px;
+    border: 1px solid violet;
+    background-color: 'none';
+}
